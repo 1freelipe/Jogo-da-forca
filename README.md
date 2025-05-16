@@ -2,10 +2,6 @@
 
 Este é um clássico **Jogo da Forca**, feito em C++, jogável diretamente no terminal. Um jogador digita a palavra secreta, e o outro tenta adivinhar, letra por letra, antes que acabem as chances.
 
----
-
-## 📸 Demonstração
-
 ### 🎲 Início do jogo
 <pre>
 *-------------*
@@ -59,3 +55,4 @@ A palavra era: palavra
 - Atualização da palavra parcialmente revelada
 - Mensagens de fim de jogo personalizadas
 - Uso de `system("cls")` para ocultar a palavra (em sistemas Windows)
+ 
