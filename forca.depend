@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1746326455 source:c:\projetos c++\forca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale>
+
+1746879016 source:c:\users\felip\desktop\coisas para o git\forca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale>
+
