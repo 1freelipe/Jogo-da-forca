@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747502978 source:c:\c++\jogodaforca1.1\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+
